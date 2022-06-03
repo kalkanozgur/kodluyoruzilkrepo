@@ -19,3 +19,6 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 cd kodluyoruzilkrepo
 code .
 ```
+
+# Profil
+[patika.dev profilim](https://app.patika.dev/exaNoN)
